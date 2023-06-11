@@ -87,7 +87,7 @@
 <!-- collapsed details of github stats and activity -->
 
 <div align="center">
-<details> 
+<details open> 
     <summary style="list-style-type: none; cursor: pointer;">
       <h2>📊 Github Stats and Activity</h2>
     </summary>
