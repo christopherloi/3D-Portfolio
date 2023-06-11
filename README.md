@@ -49,12 +49,12 @@
   
 <!--- language icons --->
   
-<img height="100" src="./assets/icons/languages/blockchain.png" style="pointer-events: none;" />
-<img height="100" src="./assets/icons/languages/ethereum.png" style="pointer-events: none;" />
-<img height="100" src="./assets/icons/languages/c++.png" style="pointer-events: none;" />
-<img height="100" src="./assets/icons/languages/java.png" style="pointer-events: none;" />
-<img height="100" src="./assets/icons/languages/python.png" style="pointer-events: none;" />
-<img height="100" src="./assets/icons/languages/git.png" style="pointer-events: none;" />
+<img height="100" src="./assets/icons/languages/blockchain.png" />
+<img height="100" src="./assets/icons/languages/ethereum.png" />
+<img height="100" src="./assets/icons/languages/c++.png" />
+<img height="100" src="./assets/icons/languages/java.png" />
+<img height="100" src="./assets/icons/languages/python.png" />
+<img height="100" src="./assets/icons/languages/git.png" />
   
   
 <!-- &nbsp;
