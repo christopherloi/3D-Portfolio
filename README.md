@@ -94,13 +94,13 @@
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-      <img alt="christopherloi's streak" src="https://streak-stats.demolab.com?user=christopherloi&theme=dracula"/>
+      <img alt="christopherloi's streak" src="https://streak-stats.demolab.com?user=christopherloi&theme=dracula&hide_border=true"/>
   </p>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<img alt="christopherloi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=christopherloi&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="192px"/>
-<img alt="christopherloi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=christopherloi&langs_count=8&layout=compact&theme=dracula" height="192px"/>
+<img alt="christopherloi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=christopherloi&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="192px"/>
+<img alt="christopherloi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=christopherloi&langs_count=8&layout=compact&theme=dracula&hide_border=true" height="192px"/>
 <br/>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
