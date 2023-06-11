@@ -8,8 +8,8 @@
 
 <!--- header image --->
 
-<!-- <div align="center">
- <a href="https://christopherloi.github.io/">
+<div align="center">
+<!--  <a href="https://christopherloi.github.io/">
 <p align="left">
   <img alt="" style="{max-height: 0px}" src="./assets/header/christopherloi.png">
 </p>
