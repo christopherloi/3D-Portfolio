@@ -1,12 +1,12 @@
 <!--- assets are created on Canva --->
-<!--- feel free to download the assests and use them in your profile --->
+<!--- feel free to download the assets and use them in your profile --->
 <!--- to upload an asset, create an issue on any of your repository and add files, the link will be generated --->
 
 <!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
 
 <!---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=2000&color=FF58C4&center=true&width=500&lines=OSSAMA+MEHMOOD+%EC%83%98;Software+Engineer;Digital+Creator;Graphic+Designer+;User+Interface+(UI);User+Experience+(UX))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=2000&color=FF58C4&center=true&width=500&lines=CHRISTOPHER+LOI;Software+Engineer)](https://git.io/typing-svg)
 
 --->
 
@@ -15,16 +15,16 @@
 <div align="center">
   
 <p align="left">
-  <img alt="" style="{max-height: 0px}" src="./assets/header/ossamamehmood.png">
+  <img alt="" style="{max-height: 0px}" src="./assets/header/christopherloi.png">
 </p>
 
 <!--- portfolio launch image --->
 
-<a href="http://ossamamehmood.github.io">
-  
+<a href="https://christopherloi.github.io/">
+
   <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
-  
-  ![](https://komarev.com/ghpvc/?username=ossamamehmood&color=blueviolet&label=Profile+Views)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=2000&color=FF58C4&center=true&width=500&lines=CHRISTOPHER+LOI;Software+Engineer)](https://git.io/typing-svg)
 </a>
 
 <!--- social media icons, you can find them in assets directory of this repo --->
