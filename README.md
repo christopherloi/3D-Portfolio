@@ -1,8 +1,4 @@
-<!--- assets are created on Canva --->
-<!--- feel free to download the assets and use them in your profile --->
-<!--- to upload an asset, create an issue on any of your repository and add files, the link will be generated --->
-
-<!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
+<!--- Typing animated text SVG generator https://readme-typing-svg.herokuapp.com --->
 
 <!---
 
@@ -13,7 +9,7 @@
 <!--- header image --->
 
 <div align="center">
-  
+ 
 <p align="left">
   <img alt="" style="{max-height: 0px}" src="./assets/header/christopherloi.png">
 </p>
@@ -24,37 +20,33 @@
 
   <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=2000&color=FF58C4&center=true&width=500&lines=CHRISTOPHER+LOI;Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=2000&color=FF58C4&center=true&width=500&lines=CHRISTOPHER+LOI)](https://git.io/typing-svg)
 </a>
 
 <!--- social media icons, you can find them in assets directory of this repo --->
 
-<a href="https://twitter.com/ossamamehmood">
-    <img height="55" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
+<a href="https://twitter.com/Zebroe">
+    <img height="55" src="./assets/header/social_icons/SVG/Color/Twitter.svg" />
 </a>  
   
-<a href="https://www.youtube.com/c/ossamamehmood">
-    <img height="55" src="https://user-images.githubusercontent.com/60597290/152035929-b7f75d38-e1c2-4325-a97e-7b934b8534e2.png" />
+<a href="https://www.youtube.com/@zebroe">
+    <img height="55" src="./assets/header/social_icons/SVG/Color/Youtube.svg" />
 </a>  
   
-<a href="https://www.linkedin.com/in/ossamamehmood" target="_blank">
-  <img height="55" alt="Ossama Mehmood | LinkedIN"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
+<a href="https://www.linkedin.com/in/chrisloi/" target="_blank">
+  <img height="55" src="./assets/header/social_icons/SVG/Color/LinkedIN.svg"/>
 </a> 
   
-<a href="https://dev.to/ossamamehmood">
-    <img height="55" src="https://user-images.githubusercontent.com/60597290/152042608-2ae071b9-2a64-49be-a49d-f830152cf8d4.png" />
+<a href="https://stackoverflow.com/users/17119122/zebroe" target="_blank">
+  <img height="55" src="./assets/header/social_icons/SVG/Color/Stackoverflow.svg" />
 </a>
-  
-<a href="https://stackoverflow.com/users/9836874/ossama-mehmood" target="_blank">
-  <img height="55" alt="Ossama Mehmood | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/152035786-d00aa1c3-56af-4d45-8a3c-15846d1a123d.png" />
+
+<a href="https://www.twitch.tv/zebroee" target="_blank">
+  <img height="55" src="./assets/header/social_icons/SVG/Color/Twitch.svg" />
 </a>
-  
-<a href="https://www.facebook.com/ossamamehmood110" target="_blank">
-  <img height="55" alt="Ossama Mehmood | Facebook" src="https://user-images.githubusercontent.com/60597290/152035015-605f666e-bfe9-4723-a900-0b1e2790b8f1.png" />
-</a>
-  
-<a href="https://www.instagram.com/ossamamehmood" target="_blank">
-  <img height="55" alt="Ossama Mehmood | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
+
+<a href="https://discord.com/invite/krfDNEg" target="_blank">
+  <img height="55" src="./assets/header/social_icons/SVG/Color/Discord.svg" />
 </a>
 
 <!--- a bit of vertical space & languages text --->
