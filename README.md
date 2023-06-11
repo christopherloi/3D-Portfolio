@@ -84,27 +84,18 @@
 <h3 align="center"></h3>
 <p><a href="https://www.buymeacoffee.com/zebroe"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" height="40" width="160" /></a>
 
-  <!--- adding 3D earth icon to show some love for the environment 🌏 --->
-
-<div></div>
-<img height="40" src="https://user-images.githubusercontent.com/60597290/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
-<div></div>
-
 <!-- collapsed details of github stats and activity -->
 
 <div align="center">
-<details open> 
+<details> 
     <summary style="list-style-type: none; cursor: pointer;">
       <h2>📊 Github Stats and Activity</h2>
     </summary>
-  <h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
       <img alt="christopherloi's streak" src="https://streak-stats.demolab.com?user=christopherloi&theme=dracula"/>
   </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
