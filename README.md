@@ -2,7 +2,7 @@
 
 <!---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=2000&color=FF58C4&center=true&width=500&lines=CHRISTOPHER+LOI;Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=2000&color=FF58C4&center=true&width=500&lines=CHRISTOPHER+LOI;Software+Engineer)](https://christopherloi.github.io/)
 
 --->
 
@@ -20,112 +20,52 @@
 
   <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=2000&color=FF58C4&center=true&width=500&lines=CHRISTOPHER+LOI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=2000&color=FF58C4&center=true&width=500&lines=CHRISTOPHER+LOI)](https://christopherloi.github.io/)
 </a>
 
 <!--- social media icons, you can find them in assets directory of this repo --->
 
 <a href="https://twitter.com/Zebroe">
-    <img height="55" src="./assets/header/social_icons/SVG/Color/Twitter.svg" />
+    <img height="55" src="./assets/social%20icons/twitter.png" />
 </a>  
   
 <a href="https://www.youtube.com/@zebroe">
-    <img height="55" src="./assets/header/social_icons/SVG/Color/Youtube.svg" />
+    <img height="55" src="https://user-images.githubusercontent.com/60597290/152035929-b7f75d38-e1c2-4325-a97e-7b934b8534e2.png" />
 </a>  
   
 <a href="https://www.linkedin.com/in/chrisloi/" target="_blank">
-  <img height="55" src="./assets/header/social_icons/SVG/Color/LinkedIN.svg"/>
-</a> 
-  
-<a href="https://stackoverflow.com/users/17119122/zebroe" target="_blank">
-  <img height="55" src="./assets/header/social_icons/SVG/Color/Stackoverflow.svg" />
-</a>
-
-<a href="https://www.twitch.tv/zebroee" target="_blank">
-  <img height="55" src="./assets/header/social_icons/SVG/Color/Twitch.svg" />
-</a>
-
-<a href="https://discord.com/invite/krfDNEg" target="_blank">
-  <img height="55" src="./assets/header/social_icons/SVG/Color/Discord.svg" />
+  <img height="55" src="./assets/social%20icons/linkedin.png"/>
 </a>
 
 <!--- a bit of vertical space & languages text --->
 
 <div>&nbsp;</div>
   
-<img height="65" alt="Ossama Mehmood | Facebook" src="https://user-images.githubusercontent.com/60597290/152353234-0715ffd6-7680-4536-9fdc-ef1abc74c469.svg" />
+<img height="65" src="https://user-images.githubusercontent.com/60597290/152353234-0715ffd6-7680-4536-9fdc-ef1abc74c469.svg" />
 
 <div></div>
   
   
 <!--- language icons --->
   
-  
-<!--- 
-<img height="100" src="https://user-images.githubusercontent.com/60597290/152359293-4c3dc461-2be7-4d75-b5e3-6244637020e1.png" />
-<img height="100" src="https://user-images.githubusercontent.com/60597290/152362823-eb0e032a-5c84-4832-803c-c77bf5b558a0.png" />
-<img height="100" src="https://user-images.githubusercontent.com/60597290/152361790-b7faad3d-5f95-468a-aa51-e38f39419ec4.png" />
-<img height="100" src="https://user-images.githubusercontent.com/60597290/152363164-01140f44-5328-4ea3-8d95-fec21af7e295.png" /> 
---->
-  
-  
-<img height="100" src="https://user-images.githubusercontent.com/60597290/152366195-2a7a5be2-acc8-485c-9908-861bcfaa3f2b.png" />
-<img height="100" src="https://user-images.githubusercontent.com/60597290/152366251-81e7024b-81c6-422c-ae71-ad035850d030.png" />
-<img height="100" src="https://user-images.githubusercontent.com/60597290/152366230-0d5c915e-b212-49cc-b5d5-00d50b1493f6.png" />
-<img height="100" src="https://user-images.githubusercontent.com/60597290/152366154-ec1ddf07-fcf8-41f5-a5f8-ccfc331622a2.png" />
-<img height="100" src="https://user-images.githubusercontent.com/60597290/152366741-4ebfc910-49b4-4365-829d-89f9a5873ff5.png" />
+<img height="100" src="./assets/icons/languages/blockchain.png" />
+<img height="100" src="./assets/icons/languages/ethereum.png" />
+<img height="100" src="./assets/icons/languages/c++.png" />
+<img height="100" src="./assets/icons/languages/java.png" />
+<img height="100" src="./assets/icons/languages/python.png" />
+<img height="100" src="./assets/icons/languages/git.png" />
   
   
-&nbsp;
+<!-- &nbsp;
 <h1 align="center">
   ABOUT ME
-</h1>
+</h1> -->
   
-<img width="130" height="150" src="https://raw.githubusercontent.com/ossamamehmood/ossamamehmood/main/assets/icons/about.png" />
-  
-Started my career at the age of Sixteen (16) as a Graphic Designer. I have four (4) plus years of predominant hands-on experience gained by doing freelance on different platforms🎉.
-
-✔ Currently specialized in working as a Senior Graphic Designer, Brand Identity Strategist, and Visual Identity designer 🚀
-
-✔ Around 𝟏𝟎𝟎+ Projects accomplished as a Graphic Designer throughout my freelance journey ♾
-
-✔ 𝟏𝟎𝟎% Job Success Score - More than 100 scenes modeled with Upwork clients 🎉
-
-✔ 𝐓𝐎𝐏-𝐑𝐀𝐓𝐄𝐃 Freelancer Acknowledgement from Upwork ⛷️
-
-✔ Maintain the feedback (𝟝.𝟘/𝟝) - More than 9𝟎% of clients recommended 🎩
-
-✔ Respond quickly to clients, and get the work done promptly 🎮
+<!-- <img width="130" height="150" src="./assets/icons/boy.png" /> -->
 
   <!--- Personal --->
 
-<h1 align="center">
-    Personal 
-    </h2>
-
-Fantasy Fulfilled `Insha-Allah` Dreamy leads to `Allahamdullah`.
-
-Building `Elegant` Open Source Repository and Projects.
-
-Bloodline `Creative, Reflective & Introspective` Designer.
-
-Aspire `Broke` those with `Excellence` who try to mess up `Soft Heart`.
-
-Smarting `Ignorance/absence` those who lose diamond.
-
-Believe `in Allah Almighty` Exclusively and Unconditionally.
-
   <!--- Education --->
-
-<h1 align="center">
-    Education 
-    </h2>
-
-Sixth Semester - `Bachelour` in `Software Engineering` `(BSSE)` - Comsats University Islamabad
-
-`Intermediate` in `Computer Science` `(ICS)` - Punjab Group of College's
-
-`Secondary School` Certificate `(SSC)` or `Matriculation` Examination - Islamabad Model College For Boys
 
   <!--- Portfolio/Website --->
 
@@ -133,37 +73,31 @@ Sixth Semester - `Bachelour` in `Software Engineering` `(BSSE)` - Comsats Univer
     Portfolio/Website
     </h2>
   
-  `Personal Website` -> <a href="https://ossamamehmood.github.io" target="_blank">`Ossama Mehmood`</a>
+  `Personal Website` -> <a href="https://christopherloi.github.io/" target="_blank">`Christopher Loi`</a>
   
-   `Behance (Portfolio)` -> <a href="https://www.behance.net/ossamamehmood" target="_blank">`Ossama Mehmood`</a>
-  
-  `Linktree` -> <a href="https://linktr.ee/ossamamehmood" target="_blank">`Ossama Mehmood`</a>
+  `Linktree` -> <a href="https://linktr.ee/zebroe" target="_blank">`Christopher Loi`</a>
   
   
   <!--- Buy Me a Coffee ☕ ---> 
   
-<!--- <h3 align="center"></h3>
-<p><a href="https://www.buymeacoffee.com/ossamamehmood"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" height="40" width="160" alt="oss amehmood" /></a><a href="https://ko-fi.com/ossamamehmood">
-<img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="160" alt="ossamamehmood" /></a></p> --->
+<h3 align="center"></h3>
+<p><a href="https://www.buymeacoffee.com/zebroe"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" height="40" width="160" /></a>
 
   <!--- adding 3D earth icon to show some love for the environment 🌏 --->
 
+<div></div>
 <img height="40" src="https://user-images.githubusercontent.com/60597290/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
+<div></div>
+
+<!-- GitHub Stats -->
 
 <hr>
 <p align="center">
   
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ossamamehmood&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=christopherloi&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=ossamamehmood&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=christopherloi&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
   
 </p>
   
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
-
-<!--- building footer with spaceship question --->
-
-![footer](https://user-images.githubusercontent.com/60597290/152518980-fa55fbc8-81fe-4bba-bf52-21320455e217.png)
-<img height="50" src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" />
-
- </div>
